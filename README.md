@@ -32,7 +32,7 @@ Embora eu tenha uma base FullStack completa, o meu forte e onde eu realmente cur
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias que Aprendí
 
 <img 
     align="left" 
