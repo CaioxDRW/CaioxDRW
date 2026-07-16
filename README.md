@@ -14,7 +14,7 @@ Embora eu tenha uma base FullStack completa, o meu forte e onde eu realmente cur
             src="https://custom-icon-badges.demolab.com/badge/E--mail-Contato-red?style=for-the-badge&logo=mail&logoColor=white&labelColor=CE4630"
         />
     </a>
-    <a href="www.linkedin.com/in/caio-felizardo-777591421">
+    <a href="https://www.linkedin.com/in/caio-felizardo-777591421/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se no LinkedIn" 
