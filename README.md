@@ -1,4 +1,4 @@
-# 📘👨🏻‍💻 Caio dos Santos Felizardo
+# 📘👨🏻‍💻 Caio Felizardo
 
 **`Desenvolvedor FullStack | Foco em Front-End & Databank`**
 
